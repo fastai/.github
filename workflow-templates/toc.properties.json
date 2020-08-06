@@ -1,5 +1,5 @@
 {
-    "name": "TOC",
-    "description": "Auto generate a table of contents for your README.md.  See https://github.com/marketplace/actions/toc-generator for more details.",
-    "iconName": "toc"
+    "name": "Table of Contents",
+    "description": "Generate a table of contents for your markdown files.",
+    "icon": "sun"
 }
