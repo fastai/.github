@@ -1,5 +1,5 @@
 {
     "name": "Table of Contents",
     "description": "Generate a table of contents for your markdown files.",
-    "icon": "octicon menu"
+    "iconName": "octicon menu"
 }
