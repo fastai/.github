@@ -1,0 +1,5 @@
+{
+    "name": "Greet New Contributors.",
+    "description": "Greet new contributors when they open their first PR or issue.",
+    "icon": "sun"
+}
