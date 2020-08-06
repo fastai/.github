@@ -1,5 +1,5 @@
 {
-    "name": "Automatically Generate TOC For a README",
+    "name": "Auto Generate TOC",
     "description": "Auto TOC workflow template.",
-    "iconName": "example-icon"
+    "iconName": "menu"
 }
